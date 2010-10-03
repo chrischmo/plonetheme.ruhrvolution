@@ -19,29 +19,29 @@ a:link, a:visited, #content a:link, #content a:visited, dl.portlet a:link, dl.po
 /* To change the edit bar color, uncomment the selectors below, and insert *
  * new color values:                                                        */
 
-/*
+
 #contentActionMenus,
 dl.actionMenu.activated dd,
 #content-views,
 #edit-bar {
-	background-color: blue;
-	border-color: blue;
+	background-color: #404040;
+	border-color: #404040;
 }
 dl.actionMenu a {
-	background-color: blue;
+	background-color: #404040;
 }
-*/
+
 
 /* If you want to hide the path bar (aka. breadcrumbs), uncomment the below: */
 
-/*
+
 #breadcrumbs-you-are-here,
 #breadcrumbs-home,
 #breadcrumbs-current,
 #breadcrumbs-1 {
     display: none;
 }
-*/
+
 
 /* If you want variables in the CSS (for example for colors that are used     *
  * in several locations), Plone has a built-in facility for this. An example  *
