@@ -28,26 +28,4 @@
 
   <!-- Zope 3 browser resources -->
 
-  <!-- Resource directory for images
-    See plonetheme/ruhrvolution/browser/images/README.txt
-    for more information about registering images as Zope 3 browser
-    resources.
-  -->
-  <browser:resourceDirectory
-      name="plonetheme.ruhrvolution.images"
-      directory="images"
-      layer=".interfaces.IThemeSpecific"
-      />
-
-  <!-- Resource directory for stylesheets
-    See plonetheme/ruhrvolution/browser/stylesheets/README.txt
-    for more information about registering stylesheets as Zope 3 browser
-    resources.
-  -->
-  <browser:resourceDirectory
-      name="plonetheme.ruhrvolution.stylesheets"
-      directory="stylesheets"
-      layer=".interfaces.IThemeSpecific"
-      />
-
 </configure>
