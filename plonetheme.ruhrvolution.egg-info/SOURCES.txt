@@ -24,9 +24,6 @@ plonetheme/ruhrvolution/browser/configure.zcml
 plonetheme/ruhrvolution/browser/interfaces.py
 plonetheme/ruhrvolution/browser/viewlet.pt
 plonetheme/ruhrvolution/browser/viewlets.py
-plonetheme/ruhrvolution/browser/images/README.txt
-plonetheme/ruhrvolution/browser/stylesheets/README.txt
-plonetheme/ruhrvolution/browser/stylesheets/main.css
 plonetheme/ruhrvolution/locales/README.txt
 plonetheme/ruhrvolution/profiles/default/cssregistry.xml
 plonetheme/ruhrvolution/profiles/default/jsregistry.xml
@@ -35,12 +32,8 @@ plonetheme/ruhrvolution/profiles/default/plonetheme.ruhrvolution_various.txt
 plonetheme/ruhrvolution/profiles/default/skins.xml
 plonetheme/ruhrvolution/profiles/default/viewlets.xml
 plonetheme/ruhrvolution/skins/ruhrvolution_images/CONTENT.txt
-plonetheme/ruhrvolution/skins/ruhrvolution_images/img01.gif
-plonetheme/ruhrvolution/skins/ruhrvolution_images/img02.gif
-plonetheme/ruhrvolution/skins/ruhrvolution_images/img03.gif
-plonetheme/ruhrvolution/skins/ruhrvolution_images/img04.gif
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/CONTENT.txt
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/base_properties.props
-plonetheme/ruhrvolution/skins/ruhrvolution_styles/ploneCustom.css.dtml
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/public.css
+plonetheme/ruhrvolution/skins/ruhrvolution_styles/ruhrvolution.css.dtml
 plonetheme/ruhrvolution/skins/ruhrvolution_templates/CONTENT.txt
