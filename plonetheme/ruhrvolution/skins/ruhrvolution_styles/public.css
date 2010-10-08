@@ -45,13 +45,13 @@ h1, h2 {
     letter-spacing: -0.05em;
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
 }
 h2 {
-    font-size: 1.75em;
+    font-size: 2em;
 }
 h3 {
-    font-size: 1.25em;
+    font-size: 1.5em;
 }
 h4 {
     font-size: 1.25em;
@@ -351,7 +351,7 @@ div.portletAssignments .managedPortletActions a {
 dl.portlet dt a:link,
 dl.portlet dt a:visited,
 dl.portlet dt a:hover {
-    color: black;
+    color: dddfff;
     display: block;
     border: none;
 }
@@ -480,7 +480,7 @@ dl.portlet a:link {
 
 #content a:visited,
 dl.portlet a:visited {
-    color: #cdd1ff;
+    color: #b2b7ff;
     border-bottom: 0.1em solid #ccc;
 }
 #content a:hover,
@@ -766,12 +766,12 @@ dl.portalMessage {
     margin: 1em 0;
     font-size: 80%;
     border: 1px solid #996;
-    background-color: #ffffe3;
+    background-color: #292929;
     clear:both;
 }
 dl.portalMessage a,
 #content dl.portalMessage a {
-    color: black;
+    color: #cdd1ff;
     border-bottom: 1px solid #888;
 }
 dl.portalMessage dt {
@@ -804,13 +804,13 @@ dl.warning {
     border-color: #d80;
 }
 dl.warning dd {
-    background-color: #fd7;
+    background-color: #292929;
 }
 dl.error {
     border-color: red;
 }
 dl.error dd {
-    background-color: #fdc;
+    background-color: #292929;
 }
 
 /* Additional specificity for when status is shown inside #content */
@@ -833,8 +833,8 @@ dl.error dd {
 
 /* Color differences between the two tab types */
 #content ul.formTabs {
-    background-color: #ddd;
-    border: 0.3em solid #ddd;
+    background-color: #494949;
+    border: 0.3em solid #494949;
 }
 #edit-bar {
     background-color: #75ad0a;
@@ -1071,7 +1071,7 @@ dl.actionMenu.activated dd div {
     border: none;
 }
 #content ul.configlets li a:visited {
-    color: #436976;
+    color: #b2b7ff;
     background-color: transparent;
 }
 #content ul.configlets li a:active {
@@ -1157,6 +1157,7 @@ dl.collapsible {
     padding: 0;
 }
 dl.collapsible dt.collapsibleHeader {
+    color: Black;
     display: block;
     float: left;
     background: White;
@@ -1521,7 +1522,7 @@ input#title {
     margin: 0 0 0.2em 0;
 }
 div.error {
-    background-color: #fdc;
+    background-color: #292929;
     border:  1px solid red;
     padding: 0.5em;
     margin:  1em 0;

@@ -32,6 +32,7 @@ plonetheme/ruhrvolution/profiles/default/plonetheme.ruhrvolution_various.txt
 plonetheme/ruhrvolution/profiles/default/skins.xml
 plonetheme/ruhrvolution/profiles/default/viewlets.xml
 plonetheme/ruhrvolution/skins/ruhrvolution_images/CONTENT.txt
+plonetheme/ruhrvolution/skins/ruhrvolution_images/ruhrvolution-logo.png
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/CONTENT.txt
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/base_properties.props
 plonetheme/ruhrvolution/skins/ruhrvolution_styles/public.css
